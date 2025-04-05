@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debugging output
+*.local
+
+# Optional npm cache
+.npm
+
+# Coverage directory used by testing tools
+coverage/
+
+# Build artifacts (if using TypeScript or a build tool)
+dist/
+build/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# PM2 process file
+pids/
+*.pid
+*.seed
+
+# Optional: exclude test coverage reports
+.nyc_output/
